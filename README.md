@@ -15,7 +15,7 @@ Rick Nielsen, 57, 61016
 
 Joe Walsh, 58, 90001
 
-Lemmy Kilmister, 57, 
+Lemmy Kilmister, 57, 21120
 ```
 2. Start with the included HTML file, and fill in the parts as indicated by *** ENTER YOUR CODE HERE ***
 3. Use javascript to create and populate the list of People objects, then create an HTML table that displays the People in the list.

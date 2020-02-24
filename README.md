@@ -1,5 +1,6 @@
 # Assignment on objects
 
+## Exercise 1
 * Create a list of People using *Object Literal* notation. 
 * Each 'person' object in the 'people' collection should have the following information:
 First Name
@@ -17,7 +18,17 @@ Joe Walsh, 58, 90001
 
 Lemmy Kilmister, 57, 21120
 ```
-2. Start with the included HTML file, and fill in the parts as indicated by *** ENTER YOUR CODE HERE ***
-3. Use javascript to create and populate the list of People objects, then create an HTML table that displays the People in the list.
+2. Use javascript to create and populate an array of People objects
+3. Print each person in the console using a template literal
+Example Output:
+```
+Name: Jimmy Page
+Age: 62
+Zip Code: 00821
+```
 
-### See included screenshot for an example of the expected output.
+Challenge: (See included screenshot for an example of the expected output)
+1. Start with the included HTML file, and fill in the parts as indicated by *** ENTER YOUR CODE HERE ***
+2. Use javascript to create and populate the list of People objects, then create an HTML table that displays the People in the list.
+
+
